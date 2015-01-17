@@ -1,6 +1,13 @@
-﻿<div id="body">
-    @foreach (var student in ViewBag.Students)
-    {
-        <p>@student.Name</p>
-    }
+﻿
+@model List<MvcApplication1.ViewModels.StudentViewModel>
+
+<div id="body">
+    <ul>
+        @foreach (var student in Model)
+        {
+            <li>
+                @Html.ActionLink(student.StudentName, "Edit", new{studentId = student.StudentId})
+            </li>
+        }
+    </ul>
 </div>

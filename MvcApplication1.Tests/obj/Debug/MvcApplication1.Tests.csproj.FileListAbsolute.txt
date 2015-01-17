@@ -22,7 +22,6 @@ c:\users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplicati
 c:\users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\Ninject.Web.Common.dll
 c:\users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\Ninject.dll
 c:\users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\WebActivatorEx.dll
-c:\users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\DB.dll
 c:\users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\System.Web.Http.Tracing.dll
 c:\users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\MvcApplication1.pdb
 c:\users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\Newtonsoft.Json.xml
@@ -41,7 +40,6 @@ c:\users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplicati
 c:\users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\System.Spatial.xml
 c:\users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\Ninject.Web.Common.xml
 c:\users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\Ninject.xml
-c:\users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\DB.pdb
 c:\users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\System.Web.Http.Tracing.xml
 c:\users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\de\Microsoft.Data.Edm.resources.dll
 c:\users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\es\Microsoft.Data.Edm.resources.dll
@@ -73,3 +71,7 @@ c:\users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplicati
 c:\users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplication1.Tests\obj\Debug\MvcApplication1.Tests.csprojResolveAssemblyReference.cache
 c:\users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplication1.Tests\obj\Debug\MvcApplication1.Tests.dll
 c:\users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplication1.Tests\obj\Debug\MvcApplication1.Tests.pdb
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\DBFirst.dll
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\EntityFramework.dll
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\DBFirst.pdb
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\EntityFramework.xml

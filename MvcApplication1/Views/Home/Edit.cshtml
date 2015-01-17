@@ -1,0 +1,20 @@
+﻿@model MvcApplication1.ViewModels.StudentViewModel
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+
+@using (Html.BeginForm())
+{
+    <div>
+        @Html.LabelFor(x => x.StudentName, "Name:")
+        @Html.EditorFor(x => x.StudentName)
+    </div>
+    @Html.ValidationMessageFor(x => x.StudentName, "Required field")
+    ;
+    @Html.HiddenFor(x => x.StudentId)
+    <input type="submit" value="Update"/>
+
+}

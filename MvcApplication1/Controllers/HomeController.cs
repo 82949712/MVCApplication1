@@ -1,9 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
+﻿using System.Linq;
 using System.Web.Mvc;
 using DBFirst;
+using MvcApplication1.ViewModels;
 
 namespace MvcApplication1.Controllers
 {
@@ -18,9 +16,28 @@ namespace MvcApplication1.Controllers
         public ActionResult Index()
         {
             var students = _studentRepository.GetAllStudents();
-            ViewBag.Students = students.ToList();
+            var vm = students.Select(x => new StudentViewModel() {StudentId = x.StudentId, StudentName = x.Name}).ToList();
             
-            return View();
+            return View(vm);
+        }
+
+        public ActionResult Edit(int studentId)
+        {
+            var student = _studentRepository.GetStudentById(studentId);
+            var vm = new StudentViewModel {StudentId = student.StudentId, StudentName = student.Name};
+             
+            return View(vm);
+        }
+
+        [HttpPost]
+        public ActionResult Edit(StudentViewModel studentViewModel)
+        {
+            if (ModelState.IsValid)
+            {
+                _studentRepository.UpdateStudentSp(studentViewModel.StudentId, studentViewModel.StudentName);
+                ViewBag.Successful = true;
+            }
+            return View(studentViewModel);
         }
     }
 }
