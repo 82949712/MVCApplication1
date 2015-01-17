@@ -1,0 +1,12 @@
+c:\users\chli\documents\visual studio 2013\Projects\MvcApplication1\DB\bin\Debug\DB.dll
+c:\users\chli\documents\visual studio 2013\Projects\MvcApplication1\DB\bin\Debug\DB.pdb
+c:\users\chli\documents\visual studio 2013\Projects\MvcApplication1\DB\bin\Debug\EntityFramework.dll
+c:\users\chli\documents\visual studio 2013\Projects\MvcApplication1\DB\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\chli\documents\visual studio 2013\Projects\MvcApplication1\DB\bin\Debug\EntityFramework.xml
+c:\users\chli\documents\visual studio 2013\Projects\MvcApplication1\DB\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\chli\documents\visual studio 2013\Projects\MvcApplication1\DB\obj\Debug\DB.csprojResolveAssemblyReference.cache
+c:\users\chli\documents\visual studio 2013\Projects\MvcApplication1\DB\obj\Debug\DB.dll
+c:\users\chli\documents\visual studio 2013\Projects\MvcApplication1\DB\obj\Debug\DB.pdb
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\DB\obj\Debug\DB.Migrations.InitialCreate.resources
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\DB\obj\Debug\DB.csproj.GenerateResource.Cache
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\DB\obj\Debug\DB.Migrations.InitialCreate1.resources
