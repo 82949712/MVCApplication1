@@ -308,9 +308,13 @@
     <Content Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\CodeFirstFromDB\CodeFirstFromDB.csproj">
-      <Project>{1843d766-8e92-40d4-9ad3-4abe1e0fcabb}</Project>
-      <Name>CodeFirstFromDB</Name>
+    <ProjectReference Include="..\Core\Core.csproj">
+      <Project>{F99A320E-F78D-4C9C-813D-CF583BB29349}</Project>
+      <Name>Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Infrastructure\Infrastructure.csproj">
+      <Project>{25E2C742-672B-4B90-903D-E0B45A11C010}</Project>
+      <Name>Infrastructure</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

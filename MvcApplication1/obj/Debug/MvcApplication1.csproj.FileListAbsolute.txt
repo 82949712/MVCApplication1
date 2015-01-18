@@ -80,3 +80,7 @@ c:\users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplicati
 c:\users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplication1\bin\EntityFramework.SqlServer.xml
 C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplication1\bin\CodeFirstFromDB.dll
 C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplication1\bin\CodeFirstFromDB.pdb
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplication1\bin\Core.dll
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplication1\bin\Infrastructure.dll
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplication1\bin\Core.pdb
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplication1\bin\Infrastructure.pdb

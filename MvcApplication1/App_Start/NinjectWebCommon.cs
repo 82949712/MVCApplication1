@@ -1,5 +1,9 @@
 
-using CodeFirstFromDB;
+
+using System.Collections.Generic;
+using Core;
+using Infrastructure.IoC;
+using Ninject.Modules;
 
 [assembly: WebActivatorEx.PreApplicationStartMethod(typeof(MvcApplication1.App_Start.NinjectWebCommon), "Start")]
 [assembly: WebActivatorEx.ApplicationShutdownMethodAttribute(typeof(MvcApplication1.App_Start.NinjectWebCommon), "Stop")]
@@ -64,7 +68,12 @@ namespace MvcApplication1.App_Start
         /// <param name="kernel">The kernel.</param>
         private static void RegisterServices(IKernel kernel)
         {
-            kernel.Bind<IStudentRepository>().To<StudentRepository>().InRequestScope();
+            //kernel.Bind<IStudentRepository>().To<StudentRepository>().InRequestScope();
+            var modules = new List<INinjectModule>()
+            {
+                new RepositoryModule()
+            };
+            kernel.Load(modules);
         }        
     }
 }

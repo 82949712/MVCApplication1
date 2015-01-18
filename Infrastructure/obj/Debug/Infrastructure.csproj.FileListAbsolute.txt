@@ -1,0 +1,13 @@
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\Infrastructure\bin\Debug\Infrastructure.dll
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\Infrastructure\bin\Debug\Infrastructure.pdb
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\Infrastructure\bin\Debug\CodeFirstFromDB.dll
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\Infrastructure\bin\Debug\Core.dll
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\Infrastructure\bin\Debug\Ninject.dll
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\Infrastructure\bin\Debug\EntityFramework.dll
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\Infrastructure\bin\Debug\CodeFirstFromDB.pdb
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\Infrastructure\bin\Debug\Core.pdb
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\Infrastructure\bin\Debug\Ninject.xml
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\Infrastructure\bin\Debug\EntityFramework.xml
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\Infrastructure\obj\Debug\Infrastructure.dll
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\Infrastructure\obj\Debug\Infrastructure.pdb

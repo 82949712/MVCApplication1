@@ -1,0 +1,9 @@
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\Core\bin\Debug\Core.dll.config
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\Core\bin\Debug\Core.dll
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\Core\bin\Debug\Core.pdb
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\Core\bin\Debug\EntityFramework.dll
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\Core\bin\Debug\EntityFramework.xml
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\Core\obj\Debug\Core.dll
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\Core\obj\Debug\Core.pdb

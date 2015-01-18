@@ -1,10 +1,8 @@
+using System.Data.Entity;
+using Core.Entity_Models;
+
 namespace CodeFirstFromDB
 {
-    using System;
-    using System.Data.Entity;
-    using System.ComponentModel.DataAnnotations.Schema;
-    using System.Linq;
-
     public partial class StudentEntity : DbContext
     {
         public StudentEntity()

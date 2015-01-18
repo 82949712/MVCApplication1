@@ -1,17 +1,14 @@
-﻿using System.Collections.Generic;
-using System.Data.Entity;
+﻿using System;
+using System.Collections.Generic;
 using System.Data.SqlClient;
 using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using Core;
+using Core.Entity_Models;
 
 namespace CodeFirstFromDB
 {
-    public interface IStudentRepository
-    {
-        IEnumerable<Student> GetAllStudents();
-        Student GetStudentById(int studentId);
-        void UpdateStudentSp(int studentId, string name);
-    }
-
     public class StudentRepository : IStudentRepository
     {
         public IEnumerable<Student> GetAllStudents()
