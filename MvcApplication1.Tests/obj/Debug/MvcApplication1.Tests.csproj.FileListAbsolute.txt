@@ -71,7 +71,7 @@ c:\users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplicati
 c:\users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplication1.Tests\obj\Debug\MvcApplication1.Tests.csprojResolveAssemblyReference.cache
 c:\users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplication1.Tests\obj\Debug\MvcApplication1.Tests.dll
 c:\users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplication1.Tests\obj\Debug\MvcApplication1.Tests.pdb
-C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\DBFirst.dll
 C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\EntityFramework.dll
-C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\DBFirst.pdb
 C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\EntityFramework.xml
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\CodeFirstFromDB.dll
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\CodeFirstFromDB.pdb

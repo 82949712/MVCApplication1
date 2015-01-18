@@ -78,5 +78,5 @@ c:\users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplicati
 c:\users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.pdb
 c:\users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplication1\bin\EntityFramework.SqlServer.dll
 c:\users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplication1\bin\EntityFramework.SqlServer.xml
-C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplication1\bin\DBFirst.dll
-C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplication1\bin\DBFirst.pdb
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplication1\bin\CodeFirstFromDB.dll
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplication1\bin\CodeFirstFromDB.pdb

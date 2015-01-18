@@ -308,9 +308,9 @@
     <Content Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DBFirst\DBFirst.csproj">
-      <Project>{6bf71ed6-9a86-4c14-9a55-20ac8d1d321f}</Project>
-      <Name>DBFirst</Name>
+    <ProjectReference Include="..\CodeFirstFromDB\CodeFirstFromDB.csproj">
+      <Project>{1843d766-8e92-40d4-9ad3-4abe1e0fcabb}</Project>
+      <Name>CodeFirstFromDB</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

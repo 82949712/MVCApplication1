@@ -1,10 +1,12 @@
 ﻿using System.Linq;
 using System.Web.Mvc;
-using DBFirst;
+using CodeFirstFromDB;
 using MvcApplication1.ViewModels;
+
 
 namespace MvcApplication1.Controllers
 {
+    [AllowAnonymous]
     public class HomeController : Controller
     {
         private readonly IStudentRepository _studentRepository;

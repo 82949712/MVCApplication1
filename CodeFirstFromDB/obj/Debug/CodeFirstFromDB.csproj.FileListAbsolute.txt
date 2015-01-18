@@ -1,0 +1,10 @@
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\CodeFirstFromDB\bin\Debug\CodeFirstFromDB.dll.config
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\CodeFirstFromDB\bin\Debug\CodeFirstFromDB.dll
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\CodeFirstFromDB\bin\Debug\CodeFirstFromDB.pdb
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\CodeFirstFromDB\bin\Debug\EntityFramework.dll
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\CodeFirstFromDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\CodeFirstFromDB\bin\Debug\EntityFramework.xml
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\CodeFirstFromDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\CodeFirstFromDB\obj\Debug\CodeFirstFromDB.csprojResolveAssemblyReference.cache
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\CodeFirstFromDB\obj\Debug\CodeFirstFromDB.dll
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\CodeFirstFromDB\obj\Debug\CodeFirstFromDB.pdb

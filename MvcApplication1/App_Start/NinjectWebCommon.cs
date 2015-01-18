@@ -1,4 +1,5 @@
-using DBFirst;
+
+using CodeFirstFromDB;
 
 [assembly: WebActivatorEx.PreApplicationStartMethod(typeof(MvcApplication1.App_Start.NinjectWebCommon), "Start")]
 [assembly: WebActivatorEx.ApplicationShutdownMethodAttribute(typeof(MvcApplication1.App_Start.NinjectWebCommon), "Stop")]

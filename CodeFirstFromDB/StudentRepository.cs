@@ -1,0 +1,53 @@
+﻿using System.Collections.Generic;
+using System.Data.Entity;
+using System.Data.SqlClient;
+using System.Linq;
+
+namespace CodeFirstFromDB
+{
+    public interface IStudentRepository
+    {
+        IEnumerable<Student> GetAllStudents();
+        Student GetStudentById(int studentId);
+        void UpdateStudentSp(int studentId, string name);
+    }
+
+    public class StudentRepository : IStudentRepository
+    {
+        public IEnumerable<Student> GetAllStudents()
+        {
+            IEnumerable<Student> students;
+            using (var context = new StudentEntity())
+            {
+                students = context.Students.ToList();
+            }
+            return students;
+        }
+
+        public Student GetStudentById(int studentId)
+        {
+            Student student;
+            using (var context = new StudentEntity())
+            {
+                student = context.Students.Find(studentId);
+            }
+            return student;
+        }
+
+        public void UpdateStudentSp(int studentId, string name)
+        {
+            using (var context = new StudentEntity())
+            {
+                //var student = new Student() {StudentId = studentId, Name = name};
+                //context.Students.Attach(student);
+                //context.Entry(student).State = EntityState.Modified;
+                //context.SaveChanges();
+
+                //Use stored procedure
+                context.Database.ExecuteSqlCommand("exec sp_update_student_name @Name, @Id",
+                    new SqlParameter("@Name", name),
+                    new SqlParameter("@Id", studentId));
+            }
+        }
+    }
+}
