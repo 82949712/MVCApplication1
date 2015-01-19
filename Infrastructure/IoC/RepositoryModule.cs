@@ -2,6 +2,7 @@
 using Core;
 using Ninject;
 using Ninject.Modules;
+using Ninject.Web.Common;
 
 namespace Infrastructure.IoC
 {
@@ -9,7 +10,7 @@ namespace Infrastructure.IoC
     {
         public override void Load()
         {
-            Bind<IStudentRepository>().To<StudentRepository>();
+            Bind<IStudentRepository>().To<StudentRepository>().InRequestScope();
         }
     }
 }
