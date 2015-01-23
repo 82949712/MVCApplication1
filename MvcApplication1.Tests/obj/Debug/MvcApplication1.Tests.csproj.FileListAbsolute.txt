@@ -75,3 +75,7 @@ C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplicati
 C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\EntityFramework.xml
 C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\CodeFirstFromDB.dll
 C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\CodeFirstFromDB.pdb
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\Core.dll
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\Infrastructure.dll
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\Core.pdb
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\Infrastructure.pdb

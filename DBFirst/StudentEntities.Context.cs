@@ -31,7 +31,7 @@ namespace DBFirst
         public virtual DbSet<Enrolment> Enrolments { get; set; }
         public virtual DbSet<Student> Students { get; set; }
     
-        public virtual int sp_update_student_name(string name, Nullable<int> id)
+        public virtual ObjectResult<sp_get_students_courses_Result> sp_update_student_name(string name, Nullable<int> id)
         {
             var nameParameter = name != null ?
                 new ObjectParameter("Name", name) :
@@ -41,7 +41,16 @@ namespace DBFirst
                 new ObjectParameter("Id", id) :
                 new ObjectParameter("Id", typeof(int));
     
-            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction("sp_update_student_name", nameParameter, idParameter);
+            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<sp_get_students_courses_Result>("sp_update_student_name", nameParameter, idParameter);
+        }
+    
+        public virtual ObjectResult<sp_get_students_courses_Result> sp_get_students_courses(Nullable<int> studentId)
+        {
+            var studentIdParameter = studentId.HasValue ?
+                new ObjectParameter("studentId", studentId) :
+                new ObjectParameter("studentId", typeof(int));
+    
+            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<sp_get_students_courses_Result>("sp_get_students_courses", studentIdParameter);
         }
     }
 }

@@ -56,6 +56,9 @@
       <DependentUpon>StudentEntities.tt</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="sp_get_students_courses_Result.cs">
+      <DependentUpon>StudentEntities.tt</DependentUpon>
+    </Compile>
     <Compile Include="Student.cs">
       <DependentUpon>StudentEntities.tt</DependentUpon>
     </Compile>

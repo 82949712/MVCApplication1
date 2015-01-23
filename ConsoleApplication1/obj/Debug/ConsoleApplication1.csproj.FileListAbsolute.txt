@@ -1,0 +1,12 @@
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\ConsoleApplication1\bin\Debug\DBFirst.dll
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\ConsoleApplication1\bin\Debug\EntityFramework.dll
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\ConsoleApplication1\bin\Debug\DBFirst.pdb
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\ConsoleApplication1\bin\Debug\EntityFramework.xml
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.xml

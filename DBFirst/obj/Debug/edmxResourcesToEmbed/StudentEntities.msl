@@ -26,6 +26,20 @@
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>
-    <FunctionImportMapping FunctionImportName="sp_update_student_name" FunctionName="StudentDBModel.Store.sp_update_student_name" />
+    <FunctionImportMapping FunctionImportName="sp_update_student_name" FunctionName="StudentDBModel.Store.sp_update_student_name">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="StudentDBModel.sp_get_students_courses_Result" />
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_get_students_courses" FunctionName="StudentDBModel.Store.sp_get_students_courses">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="StudentDBModel.sp_get_students_courses_Result">
+          <ScalarProperty Name="StudentId" ColumnName="StudentId" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="EnrolmentId" ColumnName="EnrolmentId" />
+          <ScalarProperty Name="CourseId" ColumnName="CourseId" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
   </EntityContainerMapping>
 </Mapping>

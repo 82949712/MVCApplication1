@@ -46,6 +46,9 @@
       </Dependent>
     </ReferentialConstraint>
   </Association>
+  <Function Name="sp_get_students_courses" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="studentId" Type="int" Mode="In" />
+  </Function>
   <Function Name="sp_update_student_name" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
     <Parameter Name="Name" Type="nvarchar" Mode="In" />
     <Parameter Name="Id" Type="int" Mode="In" />

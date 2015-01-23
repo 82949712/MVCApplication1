@@ -11,3 +11,9 @@ C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\Infrastructu
 C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
 C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\Infrastructure\obj\Debug\Infrastructure.dll
 C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\Infrastructure\obj\Debug\Infrastructure.pdb
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\Infrastructure\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\Infrastructure\bin\Debug\Ninject.Web.Common.dll
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\Infrastructure\bin\Debug\Ninject.Web.Mvc.dll
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\Infrastructure\bin\Debug\WebActivatorEx.dll
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\Infrastructure\bin\Debug\Ninject.Web.Common.xml
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\Infrastructure\bin\Debug\Ninject.Web.Mvc.xml

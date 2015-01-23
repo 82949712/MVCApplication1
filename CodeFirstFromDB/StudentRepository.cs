@@ -44,7 +44,17 @@ namespace CodeFirstFromDB
                 context.Database.ExecuteSqlCommand("exec sp_update_student_name @Name, @Id",
                     new SqlParameter("@Name", name),
                     new SqlParameter("@Id", studentId));
+
             }
         }
+
+        //public List GetStudentCourses(int studentId)
+        //{
+        //    using (var context = new StudentEntity())
+        //    {
+        //        var result = context.Database.SqlQuery<>("sp_get_students_courses", studentId);
+        //        return result.ToList();
+        //    }
+        //}
     }
 }

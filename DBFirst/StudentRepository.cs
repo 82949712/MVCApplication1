@@ -39,5 +39,20 @@ namespace DBFirst
                 context.sp_update_student_name(name, studentId);
             }
         }
+
+        public List<Student> GetStudentCourses(int studentId)
+        {
+            var context = new Entities();
+            var result = context.sp_get_students_courses(studentId);
+         
+
+            var student = result.GroupBy(x => new {StudentId = x.StudentId, Name = x.Name}).Select(g => new Student(){
+                StudentId = g.Key.StudentId,
+                Name = g.Key.Name,
+                Enrolments = g.Select(x => new Enrolment(){EnrolmentId = x.EnrolmentId, CourseId = x.CourseId}).ToList()
+            });
+
+            return student.ToList();
+        }
     }
 }

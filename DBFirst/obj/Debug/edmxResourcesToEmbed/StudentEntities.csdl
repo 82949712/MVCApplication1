@@ -62,9 +62,18 @@
       <End Role="Student" EntitySet="Students" />
       <End Role="Enrolment" EntitySet="Enrolments" />
     </AssociationSet>
-    <FunctionImport Name="sp_update_student_name">
+    <FunctionImport Name="sp_update_student_name" ReturnType="Collection(StudentDBModel.sp_get_students_courses_Result)">
       <Parameter Name="Name" Mode="In" Type="String" />
       <Parameter Name="Id" Mode="In" Type="Int32" />
     </FunctionImport>
+    <FunctionImport Name="sp_get_students_courses" ReturnType="Collection(StudentDBModel.sp_get_students_courses_Result)">
+      <Parameter Name="studentId" Mode="In" Type="Int32" />
+    </FunctionImport>
   </EntityContainer>
+  <ComplexType Name="sp_get_students_courses_Result">
+    <Property Type="Int32" Name="StudentId" Nullable="false" />
+    <Property Type="String" Name="Name" Nullable="true" MaxLength="50" />
+    <Property Type="Int32" Name="EnrolmentId" Nullable="false" />
+    <Property Type="Int32" Name="CourseId" Nullable="false" />
+  </ComplexType>
 </Schema>

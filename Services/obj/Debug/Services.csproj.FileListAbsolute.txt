@@ -1,0 +1,8 @@
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\Services\bin\Debug\Services.dll.config
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\Services\bin\Debug\Services.dll
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\Services\bin\Debug\Services.pdb
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\Services\bin\Debug\Core.dll
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\Services\bin\Debug\Core.pdb
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\Services\obj\Debug\Services.dll
+C:\Users\chli\documents\visual studio 2013\Projects\MvcApplication1\Services\obj\Debug\Services.pdb
