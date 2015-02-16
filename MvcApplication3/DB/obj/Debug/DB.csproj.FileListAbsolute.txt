@@ -1,0 +1,12 @@
+c:\users\chli\documents\visual studio 2013\Projects\MvcApplication3\DB\obj\Debug\DB.csprojResolveAssemblyReference.cache
+c:\users\chli\documents\visual studio 2013\Projects\MvcApplication3\DB\bin\Debug\DB.dll.config
+c:\users\chli\documents\visual studio 2013\Projects\MvcApplication3\DB\bin\Debug\DB.dll
+c:\users\chli\documents\visual studio 2013\Projects\MvcApplication3\DB\bin\Debug\DB.pdb
+c:\users\chli\documents\visual studio 2013\Projects\MvcApplication3\DB\bin\Debug\EntityFramework.dll
+c:\users\chli\documents\visual studio 2013\Projects\MvcApplication3\DB\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\chli\documents\visual studio 2013\Projects\MvcApplication3\DB\bin\Debug\Web.Core.dll
+c:\users\chli\documents\visual studio 2013\Projects\MvcApplication3\DB\bin\Debug\Web.Core.pdb
+c:\users\chli\documents\visual studio 2013\Projects\MvcApplication3\DB\bin\Debug\EntityFramework.xml
+c:\users\chli\documents\visual studio 2013\Projects\MvcApplication3\DB\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\chli\documents\visual studio 2013\Projects\MvcApplication3\DB\obj\Debug\DB.dll
+c:\users\chli\documents\visual studio 2013\Projects\MvcApplication3\DB\obj\Debug\DB.pdb
