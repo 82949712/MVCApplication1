@@ -1,9 +1,13 @@
-﻿<form ng-controller="studentController" data-ng-submit="updateStudent()">
-    <fieldset>
-        <div>
-            <label for="txtStudentName">Student: </label>
-            <input id="txtStudentName" value="{{student.StudentName}}"/>
+﻿<form ng-controller="StudentController as vm" data-ng-submit="vm.updateStudent()">
+    
+
+    <div class="panel panel-default">
+        <div class="panel-body">
+            <div class="form-group">
+                <label for="txtStudentName">Student: </label>
+                <input id="txtStudentName" class="form-control" value="{{vm.student.StudentName}}"/>
+            </div>
+            <input type="submit" value="update" class="btn btn-default" />
         </div>
-        <input type="submit" value="update"/>
-    </fieldset>
+    </div>
 </form>

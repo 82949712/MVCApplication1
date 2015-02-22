@@ -10,3 +10,15 @@ c:\users\chli\documents\visual studio 2013\Projects\MvcApplication3\DB\bin\Debug
 c:\users\chli\documents\visual studio 2013\Projects\MvcApplication3\DB\bin\Debug\EntityFramework.SqlServer.xml
 c:\users\chli\documents\visual studio 2013\Projects\MvcApplication3\DB\obj\Debug\DB.dll
 c:\users\chli\documents\visual studio 2013\Projects\MvcApplication3\DB\obj\Debug\DB.pdb
+C:\Users\chli\Documents\Visual Studio 2013\Projects\MvcApplication1\MvcApplication3\DB\bin\Debug\DB.dll.config
+C:\Users\chli\Documents\Visual Studio 2013\Projects\MvcApplication1\MvcApplication3\DB\bin\Debug\DB.dll
+C:\Users\chli\Documents\Visual Studio 2013\Projects\MvcApplication1\MvcApplication3\DB\bin\Debug\DB.pdb
+C:\Users\chli\Documents\Visual Studio 2013\Projects\MvcApplication1\MvcApplication3\DB\bin\Debug\EntityFramework.dll
+C:\Users\chli\Documents\Visual Studio 2013\Projects\MvcApplication1\MvcApplication3\DB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\chli\Documents\Visual Studio 2013\Projects\MvcApplication1\MvcApplication3\DB\bin\Debug\Web.Core.dll
+C:\Users\chli\Documents\Visual Studio 2013\Projects\MvcApplication1\MvcApplication3\DB\bin\Debug\Web.Core.pdb
+C:\Users\chli\Documents\Visual Studio 2013\Projects\MvcApplication1\MvcApplication3\DB\bin\Debug\EntityFramework.xml
+C:\Users\chli\Documents\Visual Studio 2013\Projects\MvcApplication1\MvcApplication3\DB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\chli\Documents\Visual Studio 2013\Projects\MvcApplication1\MvcApplication3\DB\obj\Debug\DB.csprojResolveAssemblyReference.cache
+C:\Users\chli\Documents\Visual Studio 2013\Projects\MvcApplication1\MvcApplication3\DB\obj\Debug\DB.dll
+C:\Users\chli\Documents\Visual Studio 2013\Projects\MvcApplication1\MvcApplication3\DB\obj\Debug\DB.pdb
