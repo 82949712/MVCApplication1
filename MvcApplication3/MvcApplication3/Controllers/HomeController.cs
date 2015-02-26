@@ -28,5 +28,11 @@ namespace MvcApplication3.Controllers
             return Json(student, JsonRequestBehavior.AllowGet);
         }
 
+        public ActionResult GetStudents()
+        {
+            var student = _studentRepository.GetStudents();
+            return Json(student, JsonRequestBehavior.AllowGet);
+        }
+
     }
 }

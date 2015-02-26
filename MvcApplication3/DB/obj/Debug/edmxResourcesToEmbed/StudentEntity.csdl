@@ -8,6 +8,18 @@
       <Parameter Name="Name" Mode="In" Type="String" />
       <Parameter Name="Id" Mode="In" Type="Int32" />
     </FunctionImport>
+    <EntitySet Name="Addresses" EntityType="StudentDBModel.Address" />
+    <EntitySet Name="Courses" EntityType="StudentDBModel.Course" />
+    <EntitySet Name="Enrolments" EntityType="StudentDBModel.Enrolment" />
+    <EntitySet Name="Students" EntityType="StudentDBModel.Student" />
+    <AssociationSet Name="FK_Enrolment_Course" Association="StudentDBModel.FK_Enrolment_Course">
+      <End Role="Course" EntitySet="Courses" />
+      <End Role="Enrolment" EntitySet="Enrolments" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Enrolment_Student" Association="StudentDBModel.FK_Enrolment_Student">
+      <End Role="Student" EntitySet="Students" />
+      <End Role="Enrolment" EntitySet="Enrolments" />
+    </AssociationSet>
   </EntityContainer>
   <ComplexType Name="sp_get_students_courses_Result">
     <Property Type="Int32" Name="StudentId" Nullable="false" />
@@ -16,4 +28,63 @@
     <Property Type="Int32" Name="EnrolmentId" Nullable="false" />
     <Property Type="String" Name="CourseName" Nullable="true" MaxLength="50" />
   </ComplexType>
+  <EntityType Name="Address">
+    <Key>
+      <PropertyRef Name="AddressId" />
+    </Key>
+    <Property Name="AddressId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="City" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Suburb" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Street" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Course">
+    <Key>
+      <PropertyRef Name="CourseId" />
+    </Key>
+    <Property Name="CourseId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Enrolments" Relationship="StudentDBModel.FK_Enrolment_Course" FromRole="Course" ToRole="Enrolment" />
+  </EntityType>
+  <EntityType Name="Enrolment">
+    <Key>
+      <PropertyRef Name="EnrolmentId" />
+    </Key>
+    <Property Name="EnrolmentId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="StudentId" Type="Int32" Nullable="false" />
+    <Property Name="CourseId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Course" Relationship="StudentDBModel.FK_Enrolment_Course" FromRole="Enrolment" ToRole="Course" />
+    <NavigationProperty Name="Student" Relationship="StudentDBModel.FK_Enrolment_Student" FromRole="Enrolment" ToRole="Student" />
+  </EntityType>
+  <EntityType Name="Student">
+    <Key>
+      <PropertyRef Name="StudentId" />
+    </Key>
+    <Property Name="StudentId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Enrolments" Relationship="StudentDBModel.FK_Enrolment_Student" FromRole="Student" ToRole="Enrolment" />
+  </EntityType>
+  <Association Name="FK_Enrolment_Course">
+    <End Type="StudentDBModel.Course" Role="Course" Multiplicity="1" />
+    <End Type="StudentDBModel.Enrolment" Role="Enrolment" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Course">
+        <PropertyRef Name="CourseId" />
+      </Principal>
+      <Dependent Role="Enrolment">
+        <PropertyRef Name="CourseId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Enrolment_Student">
+    <End Type="StudentDBModel.Student" Role="Student" Multiplicity="1" />
+    <End Type="StudentDBModel.Enrolment" Role="Enrolment" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Student">
+        <PropertyRef Name="StudentId" />
+      </Principal>
+      <Dependent Role="Enrolment">
+        <PropertyRef Name="StudentId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
 </Schema>

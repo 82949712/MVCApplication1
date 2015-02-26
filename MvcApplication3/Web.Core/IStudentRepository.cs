@@ -8,6 +8,7 @@ namespace Web.Core
 {
     public interface IStudentRepository
     {
-        IEnumerable<Student> GetStudentCourses(int studentId);
+        IEnumerable<StudentCourse> GetStudentCourses(int studentId);
+        IEnumerable<StudentCourse> GetStudents();
     }
 }

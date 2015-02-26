@@ -1,13 +1,14 @@
-﻿<form ng-controller="StudentController as vm" data-ng-submit="vm.updateStudent()">
-    
+﻿
 
-    <div class="panel panel-default">
-        <div class="panel-body">
-            <div class="form-group">
-                <label for="txtStudentName">Student: </label>
-                <input id="txtStudentName" class="form-control" value="{{vm.student.StudentName}}"/>
-            </div>
-            <input type="submit" value="update" class="btn btn-default" />
+<div class="panel panel-primary">
+    <div class="panel-heading">Student Details</div>
+    <div class="panel-body">
+        <div class="form-group">
+            <label for="txtStudentName">Student: </label>
+            <input id="txtStudentName" class="form-control" value="{{vm.selectedStudent.StudentName}}"/>
+        </div>
+        <div class="form-group">
+            <button type="submit" value="Update" class="btn btn-primary"><span class="glyphicon glyphicon-edit"></span> Update</button>
         </div>
     </div>
-</form>
+</div>

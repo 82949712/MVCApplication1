@@ -3,3 +3,8 @@ c:\users\chli\documents\visual studio 2013\Projects\MvcApplication3\Web.Core\bin
 c:\users\chli\documents\visual studio 2013\Projects\MvcApplication3\Web.Core\bin\Debug\Web.Core.pdb
 c:\users\chli\documents\visual studio 2013\Projects\MvcApplication3\Web.Core\obj\Debug\Web.Core.dll
 c:\users\chli\documents\visual studio 2013\Projects\MvcApplication3\Web.Core\obj\Debug\Web.Core.pdb
+C:\Users\chli\Documents\Visual Studio 2013\Projects\MvcApplication1\MvcApplication3\Web.Core\bin\Debug\Web.Core.dll
+C:\Users\chli\Documents\Visual Studio 2013\Projects\MvcApplication1\MvcApplication3\Web.Core\bin\Debug\Web.Core.pdb
+C:\Users\chli\Documents\Visual Studio 2013\Projects\MvcApplication1\MvcApplication3\Web.Core\obj\Debug\Web.Core.csprojResolveAssemblyReference.cache
+C:\Users\chli\Documents\Visual Studio 2013\Projects\MvcApplication1\MvcApplication3\Web.Core\obj\Debug\Web.Core.dll
+C:\Users\chli\Documents\Visual Studio 2013\Projects\MvcApplication1\MvcApplication3\Web.Core\obj\Debug\Web.Core.pdb

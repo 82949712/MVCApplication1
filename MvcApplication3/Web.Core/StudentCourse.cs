@@ -6,16 +6,16 @@ using System.Threading.Tasks;
 
 namespace Web.Core
 {
-    public class Student
+    public class StudentCourse
     {
         public int StudentId { get; set; }
         public string StudentName { get; set; }
 
-        public virtual ICollection<Course> Courses { get; set; }
+        public virtual ICollection<EnrolledCourse> Courses { get; set; }
     }
 
 
-    public class Course
+    public class EnrolledCourse
     {
         public int CourseId { get; set; }
         public string CourseName { get; set; }

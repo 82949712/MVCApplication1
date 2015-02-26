@@ -1,0 +1,23 @@
+﻿
+
+<div class="page-header">
+    <ol class="breadcrumb">
+        <li><a href="/">Home</a></li>
+        <li><a href="/template/editStudent.html">Edit Student</a></li>
+    </ol>
+    <h1>Students</h1>
+</div>
+<form ng-controller="StudentController as vm">
+    <div class="list-group col-md-5">
+        <a class="list-group-item" ng-repeat="student in vm.students" href ng-click="vm.showStudentDetails(student.StudentId)">
+            <div class="row">
+                <div class="col-md-2">{{student.StudentId}}</div>
+                <div class="col-md-10">{{student.StudentName}}</div>
+            </div>
+        </a>
+    </div>
+    <div id="editStudentPanel" ng-show="vm.selectedStudent != null" class="col-md-6 col-md-offset-1" ng-include="'template/editStudent.html'"></div>
+    <!--<div class="col-md-3 col-md-offset-1 hidden-sm hidden-xs">
+        <img src="/Images/20710.jpg" alt="Some image here" class="img-thumbnail" />
+    </div>-->
+</form>
