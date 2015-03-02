@@ -4,4 +4,3 @@
 //}());
 /// <reference path="app.ts" />
 MainModule.AngularRegistry.StartApp();
-//# sourceMappingURL=main.js.map

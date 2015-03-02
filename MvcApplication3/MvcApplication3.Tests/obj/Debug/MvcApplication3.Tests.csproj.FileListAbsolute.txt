@@ -80,3 +80,5 @@ c:\users\chli\documents\visual studio 2013\Projects\MvcApplication3\MvcApplicati
 c:\users\chli\documents\visual studio 2013\Projects\MvcApplication3\MvcApplication3.Tests\obj\Debug\MvcApplication3.Tests.csprojResolveAssemblyReference.cache
 c:\users\chli\documents\visual studio 2013\Projects\MvcApplication3\MvcApplication3.Tests\obj\Debug\MvcApplication3.Tests.dll
 c:\users\chli\documents\visual studio 2013\Projects\MvcApplication3\MvcApplication3.Tests\obj\Debug\MvcApplication3.Tests.pdb
+C:\Users\chli\Documents\Visual Studio 2013\Projects\MvcApplication1\MvcApplication3\MvcApplication3.Tests\obj\Debug\MvcApplication3.Tests.csprojResolveAssemblyReference.cache
+C:\Users\chli\Documents\Visual Studio 2013\Projects\MvcApplication1\MvcApplication3\MvcApplication3.Tests\obj\Debug\MvcApplication3.Tests.dll

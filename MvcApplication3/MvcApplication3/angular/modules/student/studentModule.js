@@ -1,6 +1,7 @@
-﻿(function ($) {
+﻿(function ($, app) {
     "use strict";
-    var studentModule = angular.module('studentModule', ['ngRoute']);
+    var studentModule = app.AngularRegistry.RegisterModules('studentModule', ['ngRoute']);
+        //angular.module('studentModule', ['ngRoute']);
 
     studentModule.config(['$routeProvider', function ($routeProvider) {
         $routeProvider.when('/', {
@@ -62,4 +63,5 @@
             }
         }
     ]);
-}(jQuery));
+    angular.bootstrap($('body'), ['studentModule']);
+}(jQuery, MainModule));
