@@ -36,3 +36,22 @@ C:\Users\chli\Documents\Visual Studio 2013\Projects\MvcApplication1\MvcApplicati
 C:\Users\chli\Documents\Visual Studio 2013\Projects\MvcApplication1\MvcApplication3\IoC\obj\Debug\IoC.csprojResolveAssemblyReference.cache
 C:\Users\chli\Documents\Visual Studio 2013\Projects\MvcApplication1\MvcApplication3\IoC\obj\Debug\IoC.dll
 C:\Users\chli\Documents\Visual Studio 2013\Projects\MvcApplication1\MvcApplication3\IoC\obj\Debug\IoC.pdb
+D:\Programming\MVCApplication1\MvcApplication3\IoC\bin\Debug\IoC.dll
+D:\Programming\MVCApplication1\MvcApplication3\IoC\bin\Debug\IoC.pdb
+D:\Programming\MVCApplication1\MvcApplication3\IoC\bin\Debug\DB.dll
+D:\Programming\MVCApplication1\MvcApplication3\IoC\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Programming\MVCApplication1\MvcApplication3\IoC\bin\Debug\Ninject.dll
+D:\Programming\MVCApplication1\MvcApplication3\IoC\bin\Debug\Ninject.Web.Common.dll
+D:\Programming\MVCApplication1\MvcApplication3\IoC\bin\Debug\Ninject.Web.Mvc.dll
+D:\Programming\MVCApplication1\MvcApplication3\IoC\bin\Debug\Web.Core.dll
+D:\Programming\MVCApplication1\MvcApplication3\IoC\bin\Debug\WebActivatorEx.dll
+D:\Programming\MVCApplication1\MvcApplication3\IoC\bin\Debug\EntityFramework.dll
+D:\Programming\MVCApplication1\MvcApplication3\IoC\bin\Debug\DB.pdb
+D:\Programming\MVCApplication1\MvcApplication3\IoC\bin\Debug\Web.Core.pdb
+D:\Programming\MVCApplication1\MvcApplication3\IoC\bin\Debug\Ninject.xml
+D:\Programming\MVCApplication1\MvcApplication3\IoC\bin\Debug\Ninject.Web.Common.xml
+D:\Programming\MVCApplication1\MvcApplication3\IoC\bin\Debug\Ninject.Web.Mvc.xml
+D:\Programming\MVCApplication1\MvcApplication3\IoC\bin\Debug\EntityFramework.xml
+D:\Programming\MVCApplication1\MvcApplication3\IoC\obj\Debug\IoC.csprojResolveAssemblyReference.cache
+D:\Programming\MVCApplication1\MvcApplication3\IoC\obj\Debug\IoC.dll
+D:\Programming\MVCApplication1\MvcApplication3\IoC\obj\Debug\IoC.pdb

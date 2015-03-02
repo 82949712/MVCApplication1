@@ -211,6 +211,8 @@
   <ItemGroup>
     <TypeScriptCompile Include="angular\app.ts" />
     <TypeScriptCompile Include="angular\main.ts" />
+    <Content Include="angular\app.js" />
+    <Content Include="angular\main.js" />
     <Content Include="angular\modules\student\studentModule.js" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
@@ -1058,6 +1060,8 @@
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="angular\app.js.map" />
+    <Content Include="angular\main.js.map" />
     <None Include="Scripts\jquery-1.9.0.intellisense.js" />
     <Content Include="Scripts\jquery-1.9.0.js" />
     <Content Include="Scripts\jquery-1.9.0.min.js" />

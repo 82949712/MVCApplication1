@@ -7,10 +7,11 @@ var MainModule;
         function AngularRegistry() {
         }
         AngularRegistry.StartApp = function () {
-            angular.bootstrap($('body'), this.modules);
+            angular.bootstrap(document, this.modules);
         };
         AngularRegistry.RegisterModules = function (name, dependencies) {
-            angular.module(name, dependencies);
+            this.modules.push(name);
+            return angular.module(name, dependencies);
         };
         AngularRegistry.modules = new Array();
         return AngularRegistry;

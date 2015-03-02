@@ -63,5 +63,5 @@
             }
         }
     ]);
-    angular.bootstrap($('body'), ['studentModule']);
+    //angular.bootstrap($('body'), ['studentModule']);
 }(jQuery, MainModule));

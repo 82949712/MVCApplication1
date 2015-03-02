@@ -14,7 +14,7 @@ namespace IoC
     {
         public override void Load()
         {
-            Bind<IStudentRepository>().To<StudentRepository>().InRequestScope();
+            Bind<IStudentRepository>().To<MockStudentRepository>().InRequestScope();
         }
     }
 }

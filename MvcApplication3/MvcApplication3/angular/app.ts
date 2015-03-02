@@ -7,11 +7,12 @@ module MainModule {
         static modules: Array<string> = new Array<string>();
 
         static StartApp() {
-            angular.bootstrap($('body'), this.modules);
+            angular.bootstrap(document, this.modules);
         }
 
         static RegisterModules(name: string, dependencies: Array<string>) {
-            angular.module(name, dependencies);
+            this.modules.push(name);
+            return angular.module(name, dependencies);
         }
     }
 }

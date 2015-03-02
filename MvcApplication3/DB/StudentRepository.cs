@@ -34,4 +34,24 @@ namespace DB
             }
         } 
     }
+
+    public class MockStudentRepository : IStudentRepository
+    {
+        public IEnumerable<StudentCourse> GetStudentCourses(int studentId)
+        {
+            throw new NotImplementedException();
+        }
+
+        public IEnumerable<StudentCourse> GetStudents()
+        {
+            return new List<StudentCourse>()
+            {
+                new StudentCourse() {StudentName = "Jason", StudentId = 1},
+                new StudentCourse() {StudentName = "Johnson", StudentId = 2},
+                new StudentCourse() {StudentName = "Peter", StudentId = 3},
+                new StudentCourse() {StudentName = "Abby", StudentId = 4}
+
+            };
+        }
+    }
 }
