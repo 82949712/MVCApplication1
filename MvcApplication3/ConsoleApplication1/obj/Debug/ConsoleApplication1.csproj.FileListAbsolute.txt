@@ -10,3 +10,8 @@ C:\Users\chli\Documents\Visual Studio 2013\Projects\MvcApplication1\MvcApplicati
 C:\Users\chli\Documents\Visual Studio 2013\Projects\MvcApplication1\MvcApplication3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
 C:\Users\chli\Documents\Visual Studio 2013\Projects\MvcApplication1\MvcApplication3\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
 C:\Users\chli\Documents\Visual Studio 2013\Projects\MvcApplication1\MvcApplication3\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Programming\MVCApplication1\MvcApplication3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Programming\MVCApplication1\MvcApplication3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Programming\MVCApplication1\MvcApplication3\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Programming\MVCApplication1\MvcApplication3\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Programming\MVCApplication1\MvcApplication3\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
