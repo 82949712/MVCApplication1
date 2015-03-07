@@ -1,0 +1,30 @@
+{
+    "name": "MVCApplication1",
+    "version": "1.0.0",
+    "description": "",
+    "main": "gruntfile.js",
+    "dependencies": {
+        "grunt-cli": "^0.1.13"
+    },
+    "devDependencies": {
+        "grunt": "*",
+        "grunt-contrib-uglify": "*",
+        "grunt-contrib-concat": "*",
+        "grunt-ts": "*",
+        "grunt-msbuild": "*",
+        "grunt-htmlhint": "*"
+    },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lchong0412/MVCApplication1.git"
+  },
+  "author": "chong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lchong0412/MVCApplication1/issues"
+  },
+  "homepage": "https://github.com/lchong0412/MVCApplication1"
+}
