@@ -247,6 +247,7 @@
     <Content Include="angular\main.js" />
     <Content Include="angular\modules\auth\anthenticationModule.js" />
     <Content Include="angular\modules\auth\authInterceptor.js" />
+    <Content Include="angular\modules\shared\sharedModule.js" />
     <Content Include="angular\modules\student\studentModule.js" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />

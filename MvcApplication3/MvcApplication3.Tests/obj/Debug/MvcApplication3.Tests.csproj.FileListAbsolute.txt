@@ -189,3 +189,4 @@ D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\S
 D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
 D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\Infrastrusture.pdb
 D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\Microsoft.Owin.Security.xml
+D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\AutoMapper.Net4.dll

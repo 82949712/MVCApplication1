@@ -55,3 +55,4 @@ D:\Programming\MVCApplication1\MvcApplication3\IoC\bin\Debug\EntityFramework.xml
 D:\Programming\MVCApplication1\MvcApplication3\IoC\obj\Debug\IoC.csprojResolveAssemblyReference.cache
 D:\Programming\MVCApplication1\MvcApplication3\IoC\obj\Debug\IoC.dll
 D:\Programming\MVCApplication1\MvcApplication3\IoC\obj\Debug\IoC.pdb
+D:\Programming\MVCApplication1\MvcApplication3\IoC\bin\Debug\AutoMapper.Net4.dll

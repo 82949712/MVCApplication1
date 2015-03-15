@@ -319,3 +319,4 @@ D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3\bin\Microsoft.Owi
 D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3\bin\Microsoft.Owin.Security.xml
 D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3\bin\Microsoft.Owin.Security.OAuth.xml
 D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3\bin\System.Web.Http.Owin.xml
+D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3\bin\AutoMapper.Net4.dll

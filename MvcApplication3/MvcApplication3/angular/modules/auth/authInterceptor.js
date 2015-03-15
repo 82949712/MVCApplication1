@@ -1,15 +1,17 @@
 ﻿(function (app) {
     'use strict';
-    var authenticationModule = app.AngularRegistry.RegisterModules('authInterceptor', []);
+    var authenticationModule = app.AngularRegistry.RegisterModules('authInterceptor', ['sharedModule']);
 
     authenticationModule.config(['$httpProvider', function ($httpProvider) {
         $httpProvider.interceptors.push('requestInterceptor');
     }]);
 
-    authenticationModule.factory('requestInterceptor', ['$location', '$q', function ($location, $q) {
+    authenticationModule.factory('requestInterceptor', ['$location', '$q', 'sessionStorageService', function ($location, $q, sessionStorageService) {
         return {
-            'request': function(config) {
-                $location.path('/login');
+            'request': function (config) {
+                if (sessionStorageService.getData('token') == null && config.url.indexOf("token") === -1) {
+                    $location.path('/login');
+                }
                 return config || $q.when(config);
             }
         }

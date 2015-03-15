@@ -34,3 +34,8 @@ D:\Programming\MVCApplication1\MvcApplication3\DB\bin\Debug\EntityFramework.SqlS
 D:\Programming\MVCApplication1\MvcApplication3\DB\obj\Debug\DB.csprojResolveAssemblyReference.cache
 D:\Programming\MVCApplication1\MvcApplication3\DB\obj\Debug\DB.dll
 D:\Programming\MVCApplication1\MvcApplication3\DB\obj\Debug\DB.pdb
+D:\Programming\MVCApplication1\MvcApplication3\DB\bin\Debug\AutoMapper.Net4.dll
+D:\Programming\MVCApplication1\MvcApplication3\DB\bin\Debug\AutoMapper.dll
+D:\Programming\MVCApplication1\MvcApplication3\DB\bin\Debug\AutoMapper.pdb
+D:\Programming\MVCApplication1\MvcApplication3\DB\bin\Debug\AutoMapper.xml
+D:\Programming\MVCApplication1\MvcApplication3\DB\bin\Debug\AutoMapper.Net4.pdb
