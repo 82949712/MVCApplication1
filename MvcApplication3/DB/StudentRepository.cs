@@ -4,6 +4,7 @@ using System.Data.Entity;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using AutoMapper;
 using Web.Core;
 
 namespace DB
@@ -15,6 +16,10 @@ namespace DB
             using (var context = new StudentDBEntities())
             {
                 var spResult = context.sp_get_students_courses(studentId);
+                //Mapper.CreateMap<sp_get_students_courses_Result, StudentCourse>()
+                //    .ForMember(c => c.StudentName, m => m.MapFrom(s => s.Name))
+                //    .AfterMap((s, t) => t.Courses = )
+                
                 var result = spResult.ToList().GroupBy(x => new { x.StudentId, x.Name })
                     .Select(s => new StudentCourse()
                     {

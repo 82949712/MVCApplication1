@@ -10,6 +10,14 @@ C:\Users\chli\Documents\Visual Studio 2013\Projects\MvcApplication1\MvcApplicati
 C:\Users\chli\Documents\Visual Studio 2013\Projects\MvcApplication1\MvcApplication3\Web.Core\obj\Debug\Web.Core.pdb
 D:\Programming\MVCApplication1\MvcApplication3\Web.Core\bin\Debug\Web.Core.dll
 D:\Programming\MVCApplication1\MvcApplication3\Web.Core\bin\Debug\Web.Core.pdb
-D:\Programming\MVCApplication1\MvcApplication3\Web.Core\obj\Debug\Web.Core.csprojResolveAssemblyReference.cache
 D:\Programming\MVCApplication1\MvcApplication3\Web.Core\obj\Debug\Web.Core.dll
 D:\Programming\MVCApplication1\MvcApplication3\Web.Core\obj\Debug\Web.Core.pdb
+D:\Programming\MVCApplication1\MvcApplication3\Web.Core\bin\Debug\Microsoft.Owin.dll
+D:\Programming\MVCApplication1\MvcApplication3\Web.Core\bin\Debug\Microsoft.Owin.Security.dll
+D:\Programming\MVCApplication1\MvcApplication3\Web.Core\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\Programming\MVCApplication1\MvcApplication3\Web.Core\bin\Debug\Newtonsoft.Json.dll
+D:\Programming\MVCApplication1\MvcApplication3\Web.Core\bin\Debug\Owin.dll
+D:\Programming\MVCApplication1\MvcApplication3\Web.Core\bin\Debug\Microsoft.Owin.xml
+D:\Programming\MVCApplication1\MvcApplication3\Web.Core\bin\Debug\Microsoft.Owin.Security.xml
+D:\Programming\MVCApplication1\MvcApplication3\Web.Core\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\Programming\MVCApplication1\MvcApplication3\Web.Core\bin\Debug\Newtonsoft.Json.xml

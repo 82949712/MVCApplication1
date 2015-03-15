@@ -1,0 +1,16 @@
+D:\Programming\MVCApplication1\MvcApplication3\Infrastrusture\obj\Debug\Infrastrusture.csprojResolveAssemblyReference.cache
+D:\Programming\MVCApplication1\MvcApplication3\Infrastrusture\bin\Debug\Infrastrusture.dll
+D:\Programming\MVCApplication1\MvcApplication3\Infrastrusture\bin\Debug\Infrastrusture.pdb
+D:\Programming\MVCApplication1\MvcApplication3\Infrastrusture\bin\Debug\Microsoft.Owin.dll
+D:\Programming\MVCApplication1\MvcApplication3\Infrastrusture\bin\Debug\Microsoft.Owin.Security.dll
+D:\Programming\MVCApplication1\MvcApplication3\Infrastrusture\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\Programming\MVCApplication1\MvcApplication3\Infrastrusture\bin\Debug\Newtonsoft.Json.dll
+D:\Programming\MVCApplication1\MvcApplication3\Infrastrusture\bin\Debug\Owin.dll
+D:\Programming\MVCApplication1\MvcApplication3\Infrastrusture\bin\Debug\System.Web.Http.dll
+D:\Programming\MVCApplication1\MvcApplication3\Infrastrusture\bin\Debug\Microsoft.Owin.xml
+D:\Programming\MVCApplication1\MvcApplication3\Infrastrusture\bin\Debug\Microsoft.Owin.Security.xml
+D:\Programming\MVCApplication1\MvcApplication3\Infrastrusture\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\Programming\MVCApplication1\MvcApplication3\Infrastrusture\bin\Debug\Newtonsoft.Json.xml
+D:\Programming\MVCApplication1\MvcApplication3\Infrastrusture\bin\Debug\System.Web.Http.xml
+D:\Programming\MVCApplication1\MvcApplication3\Infrastrusture\obj\Debug\Infrastrusture.dll
+D:\Programming\MVCApplication1\MvcApplication3\Infrastrusture\obj\Debug\Infrastrusture.pdb

@@ -175,3 +175,17 @@ D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\z
 D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\obj\Debug\MvcApplication3.Tests.csprojResolveAssemblyReference.cache
 D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\obj\Debug\MvcApplication3.Tests.dll
 D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\obj\Debug\MvcApplication3.Tests.pdb
+D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\Owin.dll
+D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\Microsoft.Owin.dll
+D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\Microsoft.Owin.Cors.dll
+D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\System.Web.Http.Owin.dll
+D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\Infrastrusture.dll
+D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\System.Web.Cors.dll
+D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\Microsoft.Owin.Security.dll
+D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\Microsoft.Owin.xml
+D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\Microsoft.Owin.Cors.xml
+D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\System.Web.Http.Owin.xml
+D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\Infrastrusture.pdb
+D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\Microsoft.Owin.Security.xml

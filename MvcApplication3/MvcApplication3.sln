@@ -21,6 +21,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "grunt-build", "grunt-build"
 		package.json = package.json
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastrusture", "Infrastrusture\Infrastrusture.csproj", "{FA08EABA-CCC0-4A12-AFFE-682344B83D43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web.Api", "Web.Api\Web.Api.csproj", "{F7685F0A-2E22-43B2-8CF8-10141FC96FF9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{122E9696-6125-499E-840D-B58DF6474B93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{122E9696-6125-499E-840D-B58DF6474B93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{122E9696-6125-499E-840D-B58DF6474B93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA08EABA-CCC0-4A12-AFFE-682344B83D43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA08EABA-CCC0-4A12-AFFE-682344B83D43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA08EABA-CCC0-4A12-AFFE-682344B83D43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA08EABA-CCC0-4A12-AFFE-682344B83D43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7685F0A-2E22-43B2-8CF8-10141FC96FF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7685F0A-2E22-43B2-8CF8-10141FC96FF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7685F0A-2E22-43B2-8CF8-10141FC96FF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7685F0A-2E22-43B2-8CF8-10141FC96FF9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -15,3 +15,4 @@ D:\Programming\MVCApplication1\MvcApplication3\ConsoleApplication1\bin\Debug\Con
 D:\Programming\MVCApplication1\MvcApplication3\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
 D:\Programming\MVCApplication1\MvcApplication3\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 D:\Programming\MVCApplication1\MvcApplication3\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Programming\MVCApplication1\MvcApplication3\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
