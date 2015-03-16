@@ -1,0 +1,18 @@
+<package>
+  <metadata>
+    <id>ConsoleApplication1</id>
+    <version>1.0.0.0</version>
+    <authors>Chong</authors>
+    <owners>Chong</owners>
+    <licenseUrl>http://example.com</licenseUrl>
+    <projectUrl>http://example.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The ConsoleApplication1 deployment package, built on 16/03/2015</description>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config" target="ConsoleApplication1.exe.config" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe" target="ConsoleApplication1.exe" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb" target="ConsoleApplication1.pdb" />
+  </files>
+</package>

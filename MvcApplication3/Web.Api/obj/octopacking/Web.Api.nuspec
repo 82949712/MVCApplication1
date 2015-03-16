@@ -1,0 +1,126 @@
+<package>
+  <metadata>
+    <id>Web.Api</id>
+    <version>1.0.0.0</version>
+    <authors>Chong</authors>
+    <owners>Chong</owners>
+    <licenseUrl>http://example.com</licenseUrl>
+    <projectUrl>http://example.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The Web.Api deployment package, built on 16/03/2015</description>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\Areas\HelpPage\HelpPage.css" target="Areas\HelpPage\HelpPage.css" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\Content\bootstrap.css" target="Content\bootstrap.css" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\Content\bootstrap.min.css" target="Content\bootstrap.min.css" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\favicon.ico" target="favicon.ico" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\fonts\glyphicons-halflings-regular.svg" target="fonts\glyphicons-halflings-regular.svg" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\Global.asax" target="Global.asax" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\Scripts\bootstrap.js" target="Scripts\bootstrap.js" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\Scripts\bootstrap.min.js" target="Scripts\bootstrap.min.js" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\Areas\HelpPage\Views\Web.config" target="Areas\HelpPage\Views\Web.config" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\Areas\HelpPage\Views\Shared\_Layout.cshtml" target="Areas\HelpPage\Views\Shared\_Layout.cshtml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\Areas\HelpPage\Views\Help\ResourceModel.cshtml" target="Areas\HelpPage\Views\Help\ResourceModel.cshtml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\Areas\HelpPage\Views\Help\Index.cshtml" target="Areas\HelpPage\Views\Help\Index.cshtml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\Areas\HelpPage\Views\Help\DisplayTemplates\TextSample.cshtml" target="Areas\HelpPage\Views\Help\DisplayTemplates\TextSample.cshtml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\Areas\HelpPage\Views\Help\DisplayTemplates\SimpleTypeModelDescription.cshtml" target="Areas\HelpPage\Views\Help\DisplayTemplates\SimpleTypeModelDescription.cshtml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\Areas\HelpPage\Views\Help\DisplayTemplates\Samples.cshtml" target="Areas\HelpPage\Views\Help\DisplayTemplates\Samples.cshtml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\Areas\HelpPage\Views\Help\DisplayTemplates\Parameters.cshtml" target="Areas\HelpPage\Views\Help\DisplayTemplates\Parameters.cshtml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\Areas\HelpPage\Views\Help\DisplayTemplates\ModelDescriptionLink.cshtml" target="Areas\HelpPage\Views\Help\DisplayTemplates\ModelDescriptionLink.cshtml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\Areas\HelpPage\Views\Help\DisplayTemplates\KeyValuePairModelDescription.cshtml" target="Areas\HelpPage\Views\Help\DisplayTemplates\KeyValuePairModelDescription.cshtml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\Areas\HelpPage\Views\Help\DisplayTemplates\InvalidSample.cshtml" target="Areas\HelpPage\Views\Help\DisplayTemplates\InvalidSample.cshtml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\Areas\HelpPage\Views\Help\DisplayTemplates\ImageSample.cshtml" target="Areas\HelpPage\Views\Help\DisplayTemplates\ImageSample.cshtml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\Areas\HelpPage\Views\Help\DisplayTemplates\HelpPageApiModel.cshtml" target="Areas\HelpPage\Views\Help\DisplayTemplates\HelpPageApiModel.cshtml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\Areas\HelpPage\Views\Help\DisplayTemplates\EnumTypeModelDescription.cshtml" target="Areas\HelpPage\Views\Help\DisplayTemplates\EnumTypeModelDescription.cshtml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\Areas\HelpPage\Views\Help\DisplayTemplates\DictionaryModelDescription.cshtml" target="Areas\HelpPage\Views\Help\DisplayTemplates\DictionaryModelDescription.cshtml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\Areas\HelpPage\Views\Help\DisplayTemplates\ComplexTypeModelDescription.cshtml" target="Areas\HelpPage\Views\Help\DisplayTemplates\ComplexTypeModelDescription.cshtml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\Areas\HelpPage\Views\Help\DisplayTemplates\CollectionModelDescription.cshtml" target="Areas\HelpPage\Views\Help\DisplayTemplates\CollectionModelDescription.cshtml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\Areas\HelpPage\Views\Help\DisplayTemplates\ApiGroup.cshtml" target="Areas\HelpPage\Views\Help\DisplayTemplates\ApiGroup.cshtml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\Areas\HelpPage\Views\Help\Api.cshtml" target="Areas\HelpPage\Views\Help\Api.cshtml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\Scripts\jquery-1.10.2.js" target="Scripts\jquery-1.10.2.js" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\Scripts\jquery-1.10.2.min.js" target="Scripts\jquery-1.10.2.min.js" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\Scripts\jquery.validate.js" target="Scripts\jquery.validate.js" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\Scripts\jquery.validate.min.js" target="Scripts\jquery.validate.min.js" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\Scripts\jquery.validate.unobtrusive.js" target="Scripts\jquery.validate.unobtrusive.js" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\Scripts\jquery.validate.unobtrusive.min.js" target="Scripts\jquery.validate.unobtrusive.min.js" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\Scripts\modernizr-2.6.2.js" target="Scripts\modernizr-2.6.2.js" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\Scripts\respond.js" target="Scripts\respond.js" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\Scripts\respond.min.js" target="Scripts\respond.min.js" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\Web.config" target="Web.config" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\Web.Debug.config" target="Web.Debug.config" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\Web.Release.config" target="Web.Release.config" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\Areas\HelpPage\Views\_ViewStart.cshtml" target="Areas\HelpPage\Views\_ViewStart.cshtml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\Content\Site.css" target="Content\Site.css" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\Scripts\_references.js" target="Scripts\_references.js" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\Views\Web.config" target="Views\Web.config" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\Views\_ViewStart.cshtml" target="Views\_ViewStart.cshtml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\Views\Home\Index.cshtml" target="Views\Home\Index.cshtml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\Views\Shared\Error.cshtml" target="Views\Shared\Error.cshtml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\Views\Shared\_Layout.cshtml" target="Views\Shared\_Layout.cshtml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\Scripts\jquery-1.10.2.min.map" target="Scripts\jquery-1.10.2.min.map" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\fonts\glyphicons-halflings-regular.woff" target="fonts\glyphicons-halflings-regular.woff" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\fonts\glyphicons-halflings-regular.ttf" target="fonts\glyphicons-halflings-regular.ttf" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\fonts\glyphicons-halflings-regular.eot" target="fonts\glyphicons-halflings-regular.eot" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\Web.Api.dll.config" target="bin\Web.Api.dll.config" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\Web.Api.dll" target="bin\Web.Api.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\Web.Api.pdb" target="bin\Web.Api.pdb" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\Antlr3.Runtime.dll" target="bin\Antlr3.Runtime.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\EntityFramework.dll" target="bin\EntityFramework.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\EntityFramework.SqlServer.dll" target="bin\EntityFramework.SqlServer.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\Microsoft.AspNet.Identity.Core.dll" target="bin\Microsoft.AspNet.Identity.Core.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\Microsoft.AspNet.Identity.EntityFramework.dll" target="bin\Microsoft.AspNet.Identity.EntityFramework.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\Microsoft.AspNet.Identity.Owin.dll" target="bin\Microsoft.AspNet.Identity.Owin.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\Microsoft.Owin.dll" target="bin\Microsoft.Owin.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\Microsoft.Owin.Host.SystemWeb.dll" target="bin\Microsoft.Owin.Host.SystemWeb.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\Microsoft.Owin.Security.Cookies.dll" target="bin\Microsoft.Owin.Security.Cookies.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\Microsoft.Owin.Security.dll" target="bin\Microsoft.Owin.Security.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\Microsoft.Owin.Security.Facebook.dll" target="bin\Microsoft.Owin.Security.Facebook.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\Microsoft.Owin.Security.Google.dll" target="bin\Microsoft.Owin.Security.Google.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\Microsoft.Owin.Security.MicrosoftAccount.dll" target="bin\Microsoft.Owin.Security.MicrosoftAccount.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\Microsoft.Owin.Security.OAuth.dll" target="bin\Microsoft.Owin.Security.OAuth.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\Microsoft.Owin.Security.Twitter.dll" target="bin\Microsoft.Owin.Security.Twitter.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\Microsoft.Web.Infrastructure.dll" target="bin\Microsoft.Web.Infrastructure.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\Newtonsoft.Json.dll" target="bin\Newtonsoft.Json.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\Owin.dll" target="bin\Owin.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\System.Net.Http.Formatting.dll" target="bin\System.Net.Http.Formatting.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\System.Web.Helpers.dll" target="bin\System.Web.Helpers.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\System.Web.Http.dll" target="bin\System.Web.Http.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\System.Web.Http.Owin.dll" target="bin\System.Web.Http.Owin.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\System.Web.Http.WebHost.dll" target="bin\System.Web.Http.WebHost.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\System.Web.Mvc.dll" target="bin\System.Web.Mvc.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\System.Web.Optimization.dll" target="bin\System.Web.Optimization.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\System.Web.Razor.dll" target="bin\System.Web.Razor.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\System.Web.WebPages.Deployment.dll" target="bin\System.Web.WebPages.Deployment.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\System.Web.WebPages.dll" target="bin\System.Web.WebPages.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\System.Web.WebPages.Razor.dll" target="bin\System.Web.WebPages.Razor.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\WebGrease.dll" target="bin\WebGrease.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\Newtonsoft.Json.xml" target="bin\Newtonsoft.Json.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\System.Net.Http.Formatting.xml" target="bin\System.Net.Http.Formatting.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\System.Web.Helpers.xml" target="bin\System.Web.Helpers.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\System.Web.Http.xml" target="bin\System.Web.Http.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\System.Web.Http.WebHost.xml" target="bin\System.Web.Http.WebHost.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\System.Web.Mvc.xml" target="bin\System.Web.Mvc.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\System.Web.Optimization.xml" target="bin\System.Web.Optimization.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\System.Web.Razor.xml" target="bin\System.Web.Razor.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\System.Web.WebPages.xml" target="bin\System.Web.WebPages.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\System.Web.WebPages.Deployment.xml" target="bin\System.Web.WebPages.Deployment.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\System.Web.WebPages.Razor.xml" target="bin\System.Web.WebPages.Razor.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\Antlr3.Runtime.pdb" target="bin\Antlr3.Runtime.pdb" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\EntityFramework.xml" target="bin\EntityFramework.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\EntityFramework.SqlServer.xml" target="bin\EntityFramework.SqlServer.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\Microsoft.AspNet.Identity.Core.xml" target="bin\Microsoft.AspNet.Identity.Core.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\Microsoft.AspNet.Identity.Owin.xml" target="bin\Microsoft.AspNet.Identity.Owin.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\Microsoft.AspNet.Identity.EntityFramework.xml" target="bin\Microsoft.AspNet.Identity.EntityFramework.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\Microsoft.Owin.xml" target="bin\Microsoft.Owin.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\Microsoft.Owin.Host.SystemWeb.xml" target="bin\Microsoft.Owin.Host.SystemWeb.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\Microsoft.Owin.Security.xml" target="bin\Microsoft.Owin.Security.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\Microsoft.Owin.Security.Facebook.xml" target="bin\Microsoft.Owin.Security.Facebook.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\Microsoft.Owin.Security.Cookies.xml" target="bin\Microsoft.Owin.Security.Cookies.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\Microsoft.Owin.Security.OAuth.xml" target="bin\Microsoft.Owin.Security.OAuth.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\Microsoft.Owin.Security.Google.xml" target="bin\Microsoft.Owin.Security.Google.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\Microsoft.Owin.Security.Twitter.xml" target="bin\Microsoft.Owin.Security.Twitter.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\Microsoft.Owin.Security.MicrosoftAccount.xml" target="bin\Microsoft.Owin.Security.MicrosoftAccount.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Web.Api\bin\System.Web.Http.Owin.xml" target="bin\System.Web.Http.Owin.xml" />
+  </files>
+</package>

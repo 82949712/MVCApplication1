@@ -1,0 +1,28 @@
+<package>
+  <metadata>
+    <id>Infrastrusture</id>
+    <version>1.0.0.0</version>
+    <authors>Chong</authors>
+    <owners>Chong</owners>
+    <licenseUrl>http://example.com</licenseUrl>
+    <projectUrl>http://example.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The Infrastrusture deployment package, built on 16/03/2015</description>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Infrastrusture\bin\Debug\Infrastrusture.dll" target="Infrastrusture.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Infrastrusture\bin\Debug\Infrastrusture.pdb" target="Infrastrusture.pdb" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Infrastrusture\bin\Debug\Microsoft.Owin.dll" target="Microsoft.Owin.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Infrastrusture\bin\Debug\Microsoft.Owin.Security.dll" target="Microsoft.Owin.Security.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Infrastrusture\bin\Debug\Microsoft.Owin.Security.OAuth.dll" target="Microsoft.Owin.Security.OAuth.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Infrastrusture\bin\Debug\Newtonsoft.Json.dll" target="Newtonsoft.Json.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Infrastrusture\bin\Debug\Owin.dll" target="Owin.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Infrastrusture\bin\Debug\System.Web.Http.dll" target="System.Web.Http.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Infrastrusture\bin\Debug\Microsoft.Owin.xml" target="Microsoft.Owin.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Infrastrusture\bin\Debug\Microsoft.Owin.Security.xml" target="Microsoft.Owin.Security.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Infrastrusture\bin\Debug\Microsoft.Owin.Security.OAuth.xml" target="Microsoft.Owin.Security.OAuth.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Infrastrusture\bin\Debug\Newtonsoft.Json.xml" target="Newtonsoft.Json.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\Infrastrusture\bin\Debug\System.Web.Http.xml" target="System.Web.Http.xml" />
+  </files>
+</package>

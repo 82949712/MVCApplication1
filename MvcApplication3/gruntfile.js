@@ -13,7 +13,9 @@ module.exports = function (grunt) {
                     projectConfiguration: 'Debug',
                     maxCpuCount: 1,
                     buildParameters: {
-                        VisualStudioVersion: "12.0"
+                        VisualStudioVersion: "12.0",
+                        Platform: "Any CPU",
+                        RunOctoPack: true
                     }
                 }
             }

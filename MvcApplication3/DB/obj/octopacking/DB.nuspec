@@ -1,0 +1,29 @@
+<package>
+  <metadata>
+    <id>DB</id>
+    <version>1.0.0.0</version>
+    <authors>Chong</authors>
+    <owners>Chong</owners>
+    <licenseUrl>http://example.com</licenseUrl>
+    <projectUrl>http://example.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The DB deployment package, built on 16/03/2015</description>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\DB\bin\Debug\AutoMapper.Net4.dll" target="AutoMapper.Net4.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\DB\bin\Debug\DB.dll.config" target="DB.dll.config" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\DB\bin\Debug\DB.dll" target="DB.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\DB\bin\Debug\DB.pdb" target="DB.pdb" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\DB\bin\Debug\AutoMapper.dll" target="AutoMapper.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\DB\bin\Debug\EntityFramework.dll" target="EntityFramework.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\DB\bin\Debug\EntityFramework.SqlServer.dll" target="EntityFramework.SqlServer.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\DB\bin\Debug\Web.Core.dll" target="Web.Core.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\DB\bin\Debug\Web.Core.pdb" target="Web.Core.pdb" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\DB\bin\Debug\AutoMapper.pdb" target="AutoMapper.pdb" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\DB\bin\Debug\AutoMapper.xml" target="AutoMapper.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\DB\bin\Debug\AutoMapper.Net4.pdb" target="AutoMapper.Net4.pdb" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\DB\bin\Debug\EntityFramework.xml" target="EntityFramework.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\DB\bin\Debug\EntityFramework.SqlServer.xml" target="EntityFramework.SqlServer.xml" />
+  </files>
+</package>

@@ -1,0 +1,120 @@
+<package>
+  <metadata>
+    <id>MvcApplication3.Tests</id>
+    <version>1.0.0.0</version>
+    <authors>Chong</authors>
+    <owners>Chong</owners>
+    <licenseUrl>http://example.com</licenseUrl>
+    <projectUrl>http://example.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The MvcApplication3.Tests deployment package, built on 16/03/2015</description>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\AutoMapper.Net4.dll" target="AutoMapper.Net4.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\MvcApplication3.Tests.dll.config" target="MvcApplication3.Tests.dll.config" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\MvcApplication3.Tests.dll" target="MvcApplication3.Tests.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\MvcApplication3.Tests.pdb" target="MvcApplication3.Tests.pdb" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\Microsoft.Data.Edm.dll" target="Microsoft.Data.Edm.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\Microsoft.Data.OData.dll" target="Microsoft.Data.OData.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll" target="Microsoft.Web.Infrastructure.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll" target="Microsoft.Web.Mvc.FixedDisplayModes.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\MvcApplication3.dll" target="MvcApplication3.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\Newtonsoft.Json.dll" target="Newtonsoft.Json.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\System.Net.Http.Formatting.dll" target="System.Net.Http.Formatting.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\System.Spatial.dll" target="System.Spatial.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\System.Web.Helpers.dll" target="System.Web.Helpers.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\System.Web.Http.dll" target="System.Web.Http.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\System.Web.Http.OData.dll" target="System.Web.Http.OData.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\System.Web.Http.WebHost.dll" target="System.Web.Http.WebHost.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\System.Web.Mvc.dll" target="System.Web.Mvc.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\System.Web.Razor.dll" target="System.Web.Razor.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\System.Web.WebPages.Deployment.dll" target="System.Web.WebPages.Deployment.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\System.Web.WebPages.dll" target="System.Web.WebPages.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\System.Web.WebPages.Razor.dll" target="System.Web.WebPages.Razor.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\EntityFramework.dll" target="EntityFramework.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\System.Web.Optimization.dll" target="System.Web.Optimization.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\Ninject.Web.Common.dll" target="Ninject.Web.Common.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\Ninject.dll" target="Ninject.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\Owin.dll" target="Owin.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\Web.Core.dll" target="Web.Core.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\Microsoft.Owin.dll" target="Microsoft.Owin.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\WebActivatorEx.dll" target="WebActivatorEx.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\IoC.dll" target="IoC.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\Microsoft.Owin.Cors.dll" target="Microsoft.Owin.Cors.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\System.Web.Http.Owin.dll" target="System.Web.Http.Owin.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll" target="Microsoft.Owin.Security.OAuth.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\Infrastrusture.dll" target="Infrastrusture.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.dll" target="Microsoft.Web.WebPages.OAuth.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\DotNetOpenAuth.AspNet.dll" target="DotNetOpenAuth.AspNet.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\DB.dll" target="DB.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\System.Web.Cors.dll" target="System.Web.Cors.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\Microsoft.Owin.Security.dll" target="Microsoft.Owin.Security.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\DotNetOpenAuth.Core.dll" target="DotNetOpenAuth.Core.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll" target="DotNetOpenAuth.OAuth.Consumer.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\DotNetOpenAuth.OAuth.dll" target="DotNetOpenAuth.OAuth.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll" target="DotNetOpenAuth.OpenId.RelyingParty.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\DotNetOpenAuth.OpenId.dll" target="DotNetOpenAuth.OpenId.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\MvcApplication3.pdb" target="MvcApplication3.pdb" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\Newtonsoft.Json.xml" target="Newtonsoft.Json.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\System.Net.Http.Formatting.xml" target="System.Net.Http.Formatting.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\System.Web.Helpers.xml" target="System.Web.Helpers.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\System.Web.Http.xml" target="System.Web.Http.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\System.Web.Http.WebHost.xml" target="System.Web.Http.WebHost.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\System.Web.Mvc.xml" target="System.Web.Mvc.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\System.Web.Razor.xml" target="System.Web.Razor.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\System.Web.WebPages.xml" target="System.Web.WebPages.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\System.Web.WebPages.Deployment.xml" target="System.Web.WebPages.Deployment.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\System.Web.WebPages.Razor.xml" target="System.Web.WebPages.Razor.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\System.Web.Http.OData.xml" target="System.Web.Http.OData.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\Microsoft.Data.Edm.xml" target="Microsoft.Data.Edm.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\Microsoft.Data.OData.xml" target="Microsoft.Data.OData.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\System.Spatial.xml" target="System.Spatial.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\EntityFramework.xml" target="EntityFramework.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\Ninject.Web.Common.xml" target="Ninject.Web.Common.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\Ninject.xml" target="Ninject.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\Web.Core.pdb" target="Web.Core.pdb" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\Microsoft.Owin.xml" target="Microsoft.Owin.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\IoC.pdb" target="IoC.pdb" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\Microsoft.Owin.Cors.xml" target="Microsoft.Owin.Cors.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\System.Web.Http.Owin.xml" target="System.Web.Http.Owin.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml" target="Microsoft.Owin.Security.OAuth.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\Infrastrusture.pdb" target="Infrastrusture.pdb" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.xml" target="Microsoft.Web.WebPages.OAuth.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\DotNetOpenAuth.AspNet.xml" target="DotNetOpenAuth.AspNet.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\DB.pdb" target="DB.pdb" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\Microsoft.Owin.Security.xml" target="Microsoft.Owin.Security.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\DotNetOpenAuth.Core.xml" target="DotNetOpenAuth.Core.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml" target="DotNetOpenAuth.OAuth.Consumer.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\DotNetOpenAuth.OAuth.xml" target="DotNetOpenAuth.OAuth.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml" target="DotNetOpenAuth.OpenId.RelyingParty.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\DotNetOpenAuth.OpenId.xml" target="DotNetOpenAuth.OpenId.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\de\Microsoft.Data.Edm.resources.dll" target="de\Microsoft.Data.Edm.resources.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\es\Microsoft.Data.Edm.resources.dll" target="es\Microsoft.Data.Edm.resources.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\fr\Microsoft.Data.Edm.resources.dll" target="fr\Microsoft.Data.Edm.resources.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\it\Microsoft.Data.Edm.resources.dll" target="it\Microsoft.Data.Edm.resources.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\ja\Microsoft.Data.Edm.resources.dll" target="ja\Microsoft.Data.Edm.resources.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\ko\Microsoft.Data.Edm.resources.dll" target="ko\Microsoft.Data.Edm.resources.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\ru\Microsoft.Data.Edm.resources.dll" target="ru\Microsoft.Data.Edm.resources.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll" target="zh-Hans\Microsoft.Data.Edm.resources.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll" target="zh-Hant\Microsoft.Data.Edm.resources.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\de\Microsoft.Data.OData.resources.dll" target="de\Microsoft.Data.OData.resources.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\es\Microsoft.Data.OData.resources.dll" target="es\Microsoft.Data.OData.resources.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\fr\Microsoft.Data.OData.resources.dll" target="fr\Microsoft.Data.OData.resources.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\it\Microsoft.Data.OData.resources.dll" target="it\Microsoft.Data.OData.resources.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\ja\Microsoft.Data.OData.resources.dll" target="ja\Microsoft.Data.OData.resources.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\ko\Microsoft.Data.OData.resources.dll" target="ko\Microsoft.Data.OData.resources.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\ru\Microsoft.Data.OData.resources.dll" target="ru\Microsoft.Data.OData.resources.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll" target="zh-Hans\Microsoft.Data.OData.resources.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll" target="zh-Hant\Microsoft.Data.OData.resources.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\de\System.Spatial.resources.dll" target="de\System.Spatial.resources.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\es\System.Spatial.resources.dll" target="es\System.Spatial.resources.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\fr\System.Spatial.resources.dll" target="fr\System.Spatial.resources.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\it\System.Spatial.resources.dll" target="it\System.Spatial.resources.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\ja\System.Spatial.resources.dll" target="ja\System.Spatial.resources.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\ko\System.Spatial.resources.dll" target="ko\System.Spatial.resources.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\ru\System.Spatial.resources.dll" target="ru\System.Spatial.resources.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\zh-Hans\System.Spatial.resources.dll" target="zh-Hans\System.Spatial.resources.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\MvcApplication3.Tests\bin\Debug\zh-Hant\System.Spatial.resources.dll" target="zh-Hant\System.Spatial.resources.dll" />
+  </files>
+</package>

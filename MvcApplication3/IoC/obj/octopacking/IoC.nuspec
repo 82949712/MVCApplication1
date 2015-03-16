@@ -1,0 +1,32 @@
+<package>
+  <metadata>
+    <id>IoC</id>
+    <version>1.0.0.0</version>
+    <authors>Chong</authors>
+    <owners>Chong</owners>
+    <licenseUrl>http://example.com</licenseUrl>
+    <projectUrl>http://example.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The IoC deployment package, built on 16/03/2015</description>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\IoC\bin\Debug\AutoMapper.Net4.dll" target="AutoMapper.Net4.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\IoC\bin\Debug\IoC.dll" target="IoC.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\IoC\bin\Debug\IoC.pdb" target="IoC.pdb" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\IoC\bin\Debug\DB.dll" target="DB.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\IoC\bin\Debug\Microsoft.Web.Infrastructure.dll" target="Microsoft.Web.Infrastructure.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\IoC\bin\Debug\Ninject.dll" target="Ninject.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\IoC\bin\Debug\Ninject.Web.Common.dll" target="Ninject.Web.Common.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\IoC\bin\Debug\Ninject.Web.Mvc.dll" target="Ninject.Web.Mvc.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\IoC\bin\Debug\Web.Core.dll" target="Web.Core.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\IoC\bin\Debug\WebActivatorEx.dll" target="WebActivatorEx.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\IoC\bin\Debug\EntityFramework.dll" target="EntityFramework.dll" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\IoC\bin\Debug\DB.pdb" target="DB.pdb" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\IoC\bin\Debug\Web.Core.pdb" target="Web.Core.pdb" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\IoC\bin\Debug\Ninject.xml" target="Ninject.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\IoC\bin\Debug\Ninject.Web.Common.xml" target="Ninject.Web.Common.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\IoC\bin\Debug\Ninject.Web.Mvc.xml" target="Ninject.Web.Mvc.xml" />
+    <file src="D:\Programming\MVCApplication1\MvcApplication3\IoC\bin\Debug\EntityFramework.xml" target="EntityFramework.xml" />
+  </files>
+</package>

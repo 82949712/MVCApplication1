@@ -21,3 +21,4 @@ D:\Programming\MVCApplication1\MvcApplication3\Web.Core\bin\Debug\Microsoft.Owin
 D:\Programming\MVCApplication1\MvcApplication3\Web.Core\bin\Debug\Microsoft.Owin.Security.xml
 D:\Programming\MVCApplication1\MvcApplication3\Web.Core\bin\Debug\Microsoft.Owin.Security.OAuth.xml
 D:\Programming\MVCApplication1\MvcApplication3\Web.Core\bin\Debug\Newtonsoft.Json.xml
+D:\Programming\MVCApplication1\MvcApplication3\Web.Core\obj\Debug\Web.Core.csprojResolveAssemblyReference.cache
