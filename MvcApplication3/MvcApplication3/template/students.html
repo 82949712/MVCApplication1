@@ -16,7 +16,7 @@
             </div>
         </a>
     </div>
-    <div id="editStudentPanel" ng-show="vm.selectedStudent != null" class="col-md-6 col-md-offset-1" ng-include="'template/editStudent.html'"></div>
+    <div id="editStudentPanel" ng-if="vm.selectedStudent != null" class="col-md-6 col-md-offset-1" ng-include="'template/editStudent.html'"></div>
     <!--<div class="col-md-3 col-md-offset-1 hidden-sm hidden-xs">
         <img src="/Images/20710.jpg" alt="Some image here" class="img-thumbnail" />
     </div>-->

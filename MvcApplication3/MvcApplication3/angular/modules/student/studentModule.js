@@ -40,7 +40,7 @@
             var defer = $q.defer();
             return {
                 getStudents: function () {
-                    $http.get('/home/getstudents').success(function (result) {
+                    $http.get('/web/home/getstudents').success(function (result) {
                    
                         defer.resolve(result);
                     }).error(function() {
