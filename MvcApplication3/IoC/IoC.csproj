@@ -45,6 +45,11 @@
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Web.Http, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Core.5.2.3\lib\net45\System.Web.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Mvc, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -55,6 +60,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="InfrastructureModule.cs" />
     <Compile Include="RepositoryModule.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -65,6 +71,10 @@
     <ProjectReference Include="..\DB\DB.csproj">
       <Project>{09aeae71-2585-4b84-a94b-3f192021e7d7}</Project>
       <Name>DB</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Infrastrusture\Infrastrusture.csproj">
+      <Project>{FA08EABA-CCC0-4A12-AFFE-682344B83D43}</Project>
+      <Name>Infrastrusture</Name>
     </ProjectReference>
     <ProjectReference Include="..\Web.Core\Web.Core.csproj">
       <Project>{8c49d5c9-e338-4514-b452-794514967d3a}</Project>

@@ -6,6 +6,9 @@ using System.Web.Http;
 using System.Web.Mvc;
 using System.Web.Optimization;
 using System.Web.Routing;
+using FluentValidation;
+using FluentValidation.Mvc;
+using Infrastrusture.MVC;
 
 namespace MvcApplication3
 {
@@ -23,6 +26,8 @@ namespace MvcApplication3
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
             AuthConfig.RegisterAuth();
+
+            ModelValidatorProviders.Providers.Add(new FluentValidationModelValidatorProvider(new NinjectValidatorFactory(ContextAccessor.CurrentContext)));
         }
     }
 }

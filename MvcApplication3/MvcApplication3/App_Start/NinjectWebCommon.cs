@@ -1,3 +1,6 @@
+using Infrastrusture.MVC;
+using Ninject.Web.Mvc.FilterBindingSyntax;
+
 [assembly: WebActivatorEx.PreApplicationStartMethod(typeof(MvcApplication3.App_Start.NinjectWebCommon), "Start")]
 [assembly: WebActivatorEx.ApplicationShutdownMethodAttribute(typeof(MvcApplication3.App_Start.NinjectWebCommon), "Stop")]
 
@@ -49,6 +52,14 @@ namespace MvcApplication3.App_Start
                 kernel.Bind<IHttpModule>().To<HttpApplicationInitializationHttpModule>();
 
                 RegisterServices(kernel);
+
+                //Create a container to be used later
+                kernel.Bind<IContainer>()
+                    .To<NinjectContainer>()
+                    .InSingletonScope()
+                    .WithConstructorArgument(typeof (IKernel), kernel);
+                ContextAccessor.CurrentContext = kernel.Get<IContainer>();
+
                 return kernel;
             }
             catch
@@ -65,7 +76,8 @@ namespace MvcApplication3.App_Start
         private static void RegisterServices(IKernel kernel)
         {
             var modules = new List<INinjectModule>(){
-                new RepositoryModule()
+                new RepositoryModule(),
+                new InfrastructureModule()
             };
             kernel.Load(modules);
         }        
